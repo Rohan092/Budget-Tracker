@@ -17,15 +17,15 @@ Users can delete specific income or expense transactions by index, with the upda
 Displays all transactions of a specific type (income or expense) for a focused financial view.<br/>
 
 # Key Insights
-##1. Modularity:
+## 1. Modularity:
 The app uses well-defined routes to handle specific tasks (viewing, adding, deleting, and analyzing transactions), keeping the code organized.<br/>
-##2. Template Rendering:
+## 2. Template Rendering:
 Flask’s render_template function renders dynamic HTML templates to display financial data on the frontend.<br/>
-##3. Dynamic Data Handling:
+## 3. Dynamic Data Handling:
 Real-time data updates are possible through dynamic loading, modification, and saving of data in the JSON file.<br/>
-##4. Simplified Budget Tracking:
+## 4. Simplified Budget Tracking:
 Focuses on basic functionality: adding, viewing, and analyzing income/expenses, making it easy for users to manage their finances.<br/>
-##5. Scalability:
+## 5. Scalability:
 The app can be expanded with additional features like handling different currencies, recurring expenses, or user authentication for multi-user support.<br/>
 
 # Repository Structure
