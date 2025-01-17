@@ -31,10 +31,10 @@ The app can be expanded with additional features like handling different currenc
 # Repository Structure
 • Data : https://github.com/Rohan092/Budget-Tracker/blob/main/Budget%20Tracker.zip<br/>
 • Python Code : [Expense (.py) File](https://github.com/Rohan092/Budget-Tracker/blob/main/expense.py)<br/>
-• HTML Code : [Index (.html) File](https://github.com/Rohan092/Budget-Tracker/blob/main/index.html)<br/>
-• Image 1 : ![p1](https://github.com/user-attachments/assets/b5f0f1c4-8bf3-4bbb-a331-4f21761d4eef)<br/>
+• HTML Code : [Index (.html) File](https://github.com/Rohan092/Budget-Tracker/blob/main/index.html)<br/> 
 • Output : ![Output](https://github.com/user-attachments/assets/68bcc0c5-c99e-4202-ac1e-778f09e5e840)<br/>
-• Image 2 :![p2](https://github.com/user-attachments/assets/1c12e63c-3e47-4892-ae51-0bc3d55a15d4)</br>
+• Output 1 :![add ecpenses](https://github.com/user-attachments/assets/0d73cb6c-32e3-4e5d-ab78-feb06cef8445)<br/>
+• Output 2 :![income](https://github.com/user-attachments/assets/5e516331-31e3-4c83-8be6-b25ff3c3ea7e)<br/>
 
 # Feedback & Collabration
 Your feedback is always appreciated! If you’re interested in collaborating on similar projects or discussing new opportunities, feel free to reach out. I’m always open to connecting and sharing insights!
